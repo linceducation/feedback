@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <title>VU Grading Feedback</title>
+  <!-- Behold the three lines of wizardry -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+  <!-- here will be our block and then the script <span style="background-color: #FFFF00">xx</span>   -->
+<h2>BMO6511 A1 Grading Feedback Template</h2>
+
+<style type="text/css">
+    body{
+      text-align: left;
+      margin: 10;
+      font-family: Calibri;
+      font-size: 14px;
+    }
+  </style>
+
+
+  <div id="editor" contenteditable="true" style="height: 100%; width: 80%; border: solid; border-width: 1px; padding 25px;"
+
+<p>Dear <span style="background-color: #FFFF00">StudentName<span>,</p>
+<p>Congratulations on completing your first assessment! You have been able to demonstrate a <span style="background-color: #FFFF00">basic/clear</span> appreciation of your organisation&rsquo;s purpose, and delivered <span style="background-color: #FFFF00">a/an sound/ effective/ highly effective/ outstanding</span> articulation of a high-level strategy, as well as validation of its successfulness in this context. What I liked most about this work was your response to <span style="background-color: #FFFF00">insert the rubric criterion you graded highest and/or observation(s) which you liked the most in the submission</span>.</p>
+<p>There are some areas of the assessment task you could have addressed in more detail to improve your overall mark. The rubric criteria on which you could have done better include:</p>
+<ul>
+<li>C1. Effective communication and use of academic literacies:<br /> Your response could have been <span style="background-color: #FFFF00">sound/ effective/ highly effective/ outstanding</span> if you had clearly and succinctly summarised your organisation&rsquo;s overall approach to strategy. You could have drawn further upon the strategy concepts and literature to demonstrate greater understanding in this setting. For example, &lt;example to be included by the facilitator&gt;.</li>
+<li>C2. States the organisation&rsquo;s business strategy:<br /> Your response could have been <span style="background-color: #FFFF00">sound/ effective/ highly effective/ outstanding</span> if you had explained the underlying, complementary, and interrelated elements of your organisation&rsquo;s strategy, to demonstrate theory in this practical sense. For example, &lt;example to be included by the facilitator&gt;.</li>
+<li>C3. States whether the organisation is/was successful or unsuccessful in gaining a competitive advantage:<br /> Your response could have been <span style="background-color: #FFFF00">sound/ effective/ highly effective/ outstanding</span> if had demonstrated greater alignment between your organisation&rsquo;s purpose and its ability to remain competitive and relevant in its intended sphere of operations. For example, &lt;example to be included by the facilitator&gt;.</li>
+<li>C4. Clearly indicates the industry the organisation is operating in and if it is/was a multinational cooperation or a small/medium-sized enterprise:<br /> Your response could have been <span style="background-color: #FFFF00">sound/ effective/ highly effective/ outstanding</span> if you had included a further clarification of the industry and organisation-specific information, in order to provide a more specific picture of the relevance of strategy and competitiveness. For example, &lt;example to be included by the facilitator&gt;.</li>
+<li>C5. Correctly references the readings and includes a Reference List:<br /> Your response could have been <span style="background-color: #FFFF00">sound/ effective/ highly effective/ outstanding</span> if you had avoided minor in-text referencing errors, as well as errors in your references page. For example, &lt;example to be included by the facilitator&gt;.</li>
+</ul>
+<p>For your next assessment task (in this unit, or a future unit), I want you to focus on the following areas for improvement:</p>
+<p><span style="background-color: #FFFF00">4-5 generic feed-forward points for next assessment which can be used for C, P and N submissions</span></p>
+<ul>
+<li>Ensure strong alignment with your organisation&rsquo;s purpose and underlying strategic choices.</li>
+<li>Pay close attention to the relationship and influence of the external environment on organisational strategy.</li>
+<li>Be able to further draw upon theory and concepts relevant to strategic analysis, and ensure integration of theory within your discussion.</li>
+<li>Have a clear understanding of your underlying elements of the internal organisation, their impact on business-level strategy, and the practical implications of a coherent and well-aligned strategy.</li>
+<li>Draw on a greater variety of research, including more contemporary academic literature, industry research and reports, and other robust sources. This will ensure more rigorously argued assumptions and analyses.</li>
+<li>It is important to list and utilise references correctly &ndash; this will benefit you throughout your MBA, as well as working career.</li>
+</ul>
+<p><span style="background-color: #FFFF00">2-3&nbsp;&nbsp; generic feed-forward points for the next assessment which can be used for D and HD submissions</span></p>
+<ul>
+<li>Further develop your understanding of the relationship between organisational vision, strategic competitiveness, and execution of strategy toward the customer-focused value proposition.</li>
+<li>Focus on moving away from any generalised/superficial descriptions of theory and research, by critically analysing and applying these concepts in specific reference to your organisation&rsquo;s situation and internal environment.</li>
+</ul>
+<p><em><span style="text-decoration: underline;"><span style="background-color: #FFFF00">Personalised Statement</span></em></p>
+<p>Facilitators will add a relevant personalised comment from the below in the concluding remarks of the grading feedback for each student. If none of the below are relevant, facilitators will add something of their own. In case you would like to add any points in this section, please feel free to do so.</p>
+<p><strong><span style="background-color: #FFFF00">Referencing a recent conversation E.g.</strong></p>
+<p>I am glad you made great progress / could incorporate some feedback from our last discussion. Look forward to speaking with you before your next submission.</p>
+<p><strong><span style="background-color: #FFFF00">Reinforcing an improvement area E.g.</strong></p>
+<p>I would like to reiterate that you should proofread your work before submission, and will look forward to seeing this practice adopted even in your drafts.</p>
+<p>Let's have a conversation around referencing/ understanding the next assessment task/ strategically aligning our ideas &amp; concepts before the next submission.</p>
+<p>I would like to particularly emphasise the importance of using credible sources from academic literature and industry source to substantiate your contentions. Do incorporate this even in the drafts you share with me for my review.</p>
+<p><strong><span style="background-color: #FFFF00">Something you want them to do (or continue doing)</strong></p>
+<p>I encourage you to participate/ continue participating/ share your views on the discussion forum.</p>
+<p><em><span style="background-color: #FFFF00">Please provide two sets of concluding remarks- one for P and above students and the other for N students</em></p>
+<p><em><span style="text-decoration: underline;"><span style="background-color: #FFFF00">Concluding Remark for D, HD, P &amp; C students</span></em></p>
+<p>Overall, a <span style="background-color: #FFFF00">great / good</span> job with this first assessment. In your upcoming assessment tasks, you can incorporate this feedback as well as your evolving knowledge of strategy to develop a well-aligned strategic business proposal.</p>
+<p><em><span style="text-decoration: underline;"><span style="background-color: #FFFF00">Concluding Remark for N students</span></em> <br /> Overall, you have demonstrated an evolving understanding of strategy, but there are gaps in your articulation and understanding impacting upon your assessment grade. Please pay close attention to the above feedback, which will make a big difference to the quality of your paper, and grade. I look forward to seeing these changes in your next assessment submission. Good luck!</p>
+<p>Please send me an email in case of any specific questions or concerns.</p>
+<p>Regards, <br /> FacilitatorName</p>
+
+
+</div>
+
+
+
+</body>
+</html>
